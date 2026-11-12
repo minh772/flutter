@@ -1,6 +1,5 @@
 {
-  "users":
-[
+  "users": [
 {
 "id": 1,
 "name": "Hoàng Duy Nhật Minh",
@@ -19,5 +18,5 @@ I
 "avatar": "https://example.com/avatars/ha.jpg",
 "dateOfBirth": "2005-07-19T00:00:00.000Z"
 }
-]
+],
 }
